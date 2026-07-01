@@ -22,7 +22,7 @@ These instructions cover downloading the .cpp file, obtaining a C++ compiler, ad
 - Finish MSYS2 installation and open MSYS2 
 - Change drives to the C: drive with `cd C:`
 - update the MSYS2 environment with `pacman -Syu`
-- Install gcc with `pacman -S mingw-w64-c86_64-gcc`
+- Install gcc with `pacman -S mingw-w64-x86_64-gcc`
 
 ### Adding Compiler to PATH
 - In the Windows search bar, type "path"
